@@ -1,0 +1,19 @@
+.Encabezado {
+    color: white; background-color: rgb(65, 97, 133); border: 2px double rgb(185, 226, 247);
+}
+
+.bordeLectura {
+    color: black; background-color: rgb(185, 226, 247); border: 2px solid rgb(65, 97, 133)
+}
+
+.bordePostres {
+    color: black; background-color: rgb(185, 226, 247); border: 2px solid rgb(65, 97, 133);
+}
+
+.bordeEntretenimiento {
+    color: black; background-color: rgb(185, 226, 247); border: 2px solid rgb(65, 97, 133);
+}
+
+.bordeDiversion {
+    color: black; background-color: rgb(185, 226, 247); border: 2px solid rgb(65, 97, 133);
+}
